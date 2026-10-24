@@ -1,0 +1,12 @@
+# Build outputs and local verification material
+**/bin/
+**/obj/
+.artifacts/
+.archive/
+verification/
+publish/
+dist/
+.tmp/
+*.user
+*.log
+**/aliases.json

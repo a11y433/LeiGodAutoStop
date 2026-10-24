@@ -58,4 +58,3 @@ This is an independent community project and is not affiliated with or endorsed 
 ## License and bundled runtime
 
 This project's source is licensed under the MIT License in `LICENSE`. The Windows x64 self-contained release also bundles the .NET 8.0.8 runtime. See `DOTNET-LICENSE.txt` and `ThirdPartyNotices.txt` for the runtime license and third-party notices.
-
